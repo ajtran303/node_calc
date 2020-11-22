@@ -1,6 +1,6 @@
 # calc.js
 
-A command-line calculator written in Node.js with Mocha for testing.
+A command-line calculator written in Node.js with Mocha for testing. Tutorial from Tania Rascia [link](https://www.taniarascia.com/unit-testing-in-javascript/).
 
 ## Installation
 
